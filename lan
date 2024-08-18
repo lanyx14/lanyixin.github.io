@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人主页</title>
+</head>
+<body>
+    <header>
+        <h1>欢迎来到我的主页</h1>
+    </header>
+    <main>
+        <img src="profile.jpg" alt="个人照片">
+        <h2>我是谁？</h2>
+        <p>这里可以是关于你的简介。</p>
+        <h2>我喜欢做什么？</h2>
+        <p>这里可以是你的兴趣爱好介绍。</p>
+        <h2>我的作品</h2>
+        <p>这里可以是你的作品展示或链接。</p>
+    </main>
+    <footer>
+        <p>版权所有 &copy; 2023 你的名字</p>
+    </footer>
+</body>
+</html>
